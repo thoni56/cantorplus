@@ -1,3 +1,13 @@
+# Prelude
+
+This is a fork of the original Cantor keyboard. The sections below in this Readme is from that original.
+
+I made some smaller changes to match my pinkie length. After building it, which was super-easy, I want to
+
+- change thumb cluster - I have a shorter thumb and want the keys to be closer together
+- probably move the last two columns up a bit - my pinkie was not that short
+
+
 # Cantor Keyboard
 The Cantor keyboard is a 42 key diodeless split keyboard, designed with simplicity in mind. It is inspired on the popular [corne](https://github.com/foostan/crkbd), [ferris](https://github.com/pierrechevalier83/ferris) and [sweep](https://github.com/davidphilipbarr/Sweep) keyboards, aiming to provide a more ergonomic (stronger column stagger) corne-like layout with a simple, easy to assemble and cheap design.
 
